@@ -1,5 +1,4 @@
-package kadai2;
-
+package kadai1;
 public class Main {
     public static void main(String[] args) {
         // 1. 勇者と魔法使いを生成
